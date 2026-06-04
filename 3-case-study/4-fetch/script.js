@@ -8,7 +8,7 @@ user
   })
   .catch((err) => console.error(err));
 
-// fetch('https://api.github.com/users/sandhikagalih')
+// fetch("https://api.github.com/users/sandhikagalih")
 //   .then((res) => res.json())
 //   .then((user) => {
 //     console.log(`Nama : ${user.name}`);
